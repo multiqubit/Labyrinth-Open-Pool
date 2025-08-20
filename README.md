@@ -35,6 +35,6 @@ or Press Command + Space - > Spotlight Search - > Labyrinth
 
 Registration:
 
-Enter your X/Twitter account username Provide a valid wallet address to receive rewards (BTC, ETH, XMR, SOL) сlick Register and wait — all processes will start automatically. When you see “Activated” along with a timer, it means you’ve successfully joined the pool as a participant. From this point on, everything runs automatically — you don’t need to do anything else. 
+Enter your X/Twitter account username. Provide a valid wallet address to receive rewards (BTC, ETH, XMR, SOL) сlick Register and wait — all processes will start automatically. When you see “Activated” along with a timer, it means you’ve successfully joined the pool as a participant. From this point on, everything runs automatically — you don’t need to do anything else. 
 
 Keep the app running to maintain stable network support, and make sure your internet connection is reliable
